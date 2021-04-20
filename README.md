@@ -1,0 +1,2 @@
+# mining
+untuk mining mbtc
